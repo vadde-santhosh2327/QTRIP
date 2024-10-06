@@ -1,0 +1,25 @@
+li{
+    display: inline-block;
+}
+.one{
+   position: absolute;
+   left: 10px;
+   top: 20px;
+   font-size: larger;
+   font-family: sans-serif;
+}
+.two{
+    margin-left: 800px;
+    margin-top: 5px;
+    font-size: larger;
+    font-family: sans-serif;
+}
+.two1{
+    margin-left:80px; 
+    font-size: larger;
+    font-family: sans-serif;
+}
+#nav{
+    /* background-color: aqua; */
+    height: 50px;
+}
